@@ -1,2 +1,2 @@
 # mechanoid
-machanoid
+mechanoid
